@@ -11,7 +11,7 @@ namespace testgithub
         static void Main(string[] args)
         {
             int i;
-            i = 123;                // Expression statement
+            i = 1234;                // Expression statement
             Console.WriteLine(i);   // Expression statement
             i++;                    // Expression statement
             Console.WriteLine(i);   // Expression statement
