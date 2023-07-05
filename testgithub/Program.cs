@@ -13,7 +13,7 @@ namespace testgithub
             int i;
             i = 1234;                // Expression statement
             Console.WriteLine(i);   // Expression statement
-            i++;                    // Expression statement
+            i--;                    // Expression statement
             Console.WriteLine(i);   // Expression statement
         }
     }
